@@ -62,3 +62,8 @@ The total number of high-rarity cards in your 60-card Main Deck (excluding basic
 **Ver. 1.0 (Initial Public Release)**
 * **Date:** October 24, 2025
 * **Key Change Summary:** Initial proposal combining PW ban, Legacy card pool, **3-copy limit for all cards**, and 2 Mythic/8 Rare total limit.
+
+# How to contribute
+
+- [Please create an issue](https://github.com/ytnobody/core-generation-magic/issues/new), and write this idea.
+- However, pull requests without any issues or discussions will not be merged and will be closed by the project owner upon discovery.
